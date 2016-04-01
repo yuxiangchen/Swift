@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoCollection/PhotoTableViewCell.swift"
+            timestampString = "481074495.505628"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "PhotoTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoCollection.PhotoTableViewCell.imageDescription.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "PhotoCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuxiang.chen/Developer/PhotoCollection/PhotoCollection/PhotoTableViewCell.swift"
+                  timestampString = "481075856.48608"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoCollection.PhotoTableViewCell.imageDescription.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "PhotoCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuxiang.chen/Developer/PhotoCollection/PhotoCollection/PhotoTableViewCell.swift"
+                  timestampString = "481075856.486276"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoCollection.PhotoTableViewCell.init (PhotoCollection.PhotoTableViewCell.Type)(style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; PhotoCollection.PhotoTableViewCell"
+                  moduleName = "PhotoCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuxiang.chen/Developer/PhotoCollection/PhotoCollection/PhotoTableViewCell.swift"
+                  timestampString = "481075856.486464"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoCollection.PhotoTableViewCell.init (PhotoCollection.PhotoTableViewCell.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;PhotoCollection.PhotoTableViewCell&gt;"
+                  moduleName = "PhotoCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuxiang.chen/Developer/PhotoCollection/PhotoCollection/PhotoTableViewCell.swift"
+                  timestampString = "481075856.486648"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "138">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
